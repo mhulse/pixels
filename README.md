@@ -1,2 +1,3 @@
 # pixels
-Placeholder repo for an upcoming personal project.
+
+More info, and content, coming soon!
