@@ -8,7 +8,7 @@ Settings used to create pixel-precise art.
 
 ### New document
 
-Make sure you’re using pixel units and, depending on goal, the canvas size is in multiples of 16. For example:
+Make sure you’re using pixel units and, depending on goal, the canvas size is in powers of `2`. For example:
 
 ![new document](https://cloud.githubusercontent.com/assets/218624/9707947/8fce0c54-54c9-11e5-9334-aaf8e2f98b73.png)
 
